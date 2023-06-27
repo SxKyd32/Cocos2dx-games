@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-up" width="30" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Blocks" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="Blocks.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="226" name="Tower" tilewidth="80" tileheight="80">
+  <image source="Tower.png" width="80" height="80"/>
+ </tileset>
+ <layer name="background" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlEkKgDAMReu0dzqA6AFE9073v5QBXYh80zRUcdHAg0Jp3m8WMebfFRExkRDpebaRefDmREGURHWebdQveBsBnbD3fZbXOd29vYBR+aeauZsB3HtfXtQzeIP3C28KQDvMtxfhmlfjbQFoh0nyuuQeAGiHSfJyuSdz7K2FWB/YlHm53NqS5OVyh3quHReBG2k=
+  </data>
+ </layer>
+ <layer name="ev" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1UcKAlEQBcB/QRVzQMUcUDGHlTlc27qCMIroPKhtP2gaOh1CyJAlR54CRUqUqYTo06BJizYduvToM2D4ht4pM+YsWLJizYYtuzf07jlw5MSZC1du3HlE0JMgSSqCWa+kSo36h3tHjJlEMCveXZxfS3zT/5N0iH/5t/3yJ6PpK5A=
+  </data>
+ </layer>
+ <objectgroup name="walk">
+  <object x="170.667" y="169.333"/>
+  <object x="172" y="492"/>
+  <object x="398.667" y="492"/>
+  <object x="397.333" y="92"/>
+  <object x="688" y="89.3333"/>
+  <object x="686.667" y="424"/>
+  <object x="894.667" y="421.333"/>
+ </objectgroup>
+ <layer name="weapon" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjeYM5AO2AUjAIaA1qn8eGUh4aTX0bBKBgFgxsAAIgSAnE=
+  </data>
+ </layer>
+</map>

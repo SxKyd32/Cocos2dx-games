@@ -1,0 +1,13 @@
+info face="黑体" size=48 bold=1 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=2 padding=2,4,2,2 spacing=1,2 outline=0
+common lineHeight=49 base=42 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="myfont_0.png"
+chars count=9
+char id=20301 x=53    y=0     width=52    height=49    xoffset=-1    yoffset=-1    xadvance=48    page=0  chnl=15
+char id=20307 x=260   y=0     width=52    height=48    xoffset=-1    yoffset=0     xadvance=48    page=0  chnl=15
+char id=20351 x=106   y=0     width=51    height=49    xoffset=-1    yoffset=-1    xadvance=48    page=0  chnl=15
+char id=20986 x=313   y=0     width=45    height=48    xoffset=2     yoffset=0     xadvance=48    page=0  chnl=15
+char id=22270 x=359   y=0     width=46    height=47    xoffset=2     yoffset=2     xadvance=48    page=0  chnl=15
+char id=23383 x=210   y=0     width=49    height=49    xoffset=1     yoffset=-1    xadvance=48    page=0  chnl=15
+char id=25991 x=158   y=0     width=51    height=49    xoffset=0     yoffset=-1    xadvance=48    page=0  chnl=15
+char id=29992 x=406   y=0     width=46    height=46    xoffset=0     yoffset=2     xadvance=48    page=0  chnl=15
+char id=36755 x=0     y=0     width=52    height=50    xoffset=-1    yoffset=-1    xadvance=48    page=0  chnl=15
